@@ -3,7 +3,7 @@
 This calculator mini project is part of my `60-days JavaScript learning journey` as a beginner.
 
 # Live Demo
-[Live Demo Link](https://wambaforestin.github.io/custom-form-validation/)
+[Live Demo Link](https://wambaforestin.github.io/calculator-mini-project/)
 
 ## Description
 
